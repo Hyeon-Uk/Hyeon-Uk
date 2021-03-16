@@ -8,4 +8,5 @@
 Hyeon-Uk/Hyeon-Uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlagusdnr120)](https://solved.ac/rlagusdnr120)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlagusdnr120)](https://solved.ac/rlagusdnr120)    
+![HyeonUk's github stats](https://github-readme-stats.vercel.app/api?username=Hyeon-Uk&show_icons=true)
