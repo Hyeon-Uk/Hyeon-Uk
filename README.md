@@ -21,6 +21,6 @@
 
 <h3 align="center">📃My Projects</h3>
 <p align="center">
-  <a href="https://velog.io/@khu147/TIAB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://velog-readme-stats.vercel.app/api?name=khu147&color=dark"/></a>
+  <a href="https://velog.io/@khu147/TIAB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://velog-readme-stats.vercel.app/api?name=khu147&tag=TIAB&color=dark"/></a>
+  <a href="https://velog.io/@khu147/TimeBox-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://velog-readme-stats.vercel.app/api?name=khu147&tag=TimeBox&color=dark"/></a>
 </p>
-  
