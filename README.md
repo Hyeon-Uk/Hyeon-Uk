@@ -11,6 +11,7 @@
 - How to collaborate efficiently
 - Secure coding
 - Innovative and optimized service logic
+- Software Architecture & Infra
 
 ### Experience & Education
 - `Samsung Software Academy for Youth 9th` (2023.01 ~ 2023.11)
