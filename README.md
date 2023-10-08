@@ -1,27 +1,32 @@
-<h1 align="center">🙋‍♂️Hyeon-Uk</h1>
-<h3 align="center">❓My Profile</h3>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeon-Uk&count_bg=%23000000&title_bg=%23555555&&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-<a href="https://solved.ac/rlagusdnr120"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rlagusdnr120"/></a>
-  </p>
-<h3 align="center">✈My SNS</h3>
-<p align="center">
-  <a href="mailto:rlagusdnr120@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@khu147"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/khu147/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</p>
-<!-- <h3 align="center">🔨My Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp 
-</p> -->
+<a target="_blank" href="https://solved.ac/profile/rlagusdnr120"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagusdnr120"></a>
 
-<h3 align="center">📃My Projects</h3>
-<p align="center">
-  <a href="https://velog.io/@khu147/TIAB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://velog-readme-stats.vercel.app/api?name=khu147&tag=TIAB&color=dark"/></a>
-  <a href="https://velog.io/@khu147/TimeBox-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://velog-readme-stats.vercel.app/api?name=khu147&tag=TimeBox&color=dark"/></a>
-  <a href="https://velog.io/@khu147/SJAlgorithmBot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://velog-readme-stats.vercel.app/api?name=khu147&tag=SJAlgorithmBot&color=dark"/></a>
-</p>
+### Who?
+- Backend Developer || Software Developer
+- Graduated Sejong University, Computer Engineering
+
+### Interest
+- OOP
+- Algorithm
+- Clean coding
+- How to collaborate efficiently
+- Secure coding
+- Innovative and optimized service logic
+
+### Experience & Education
+- `Samsung Software Academy for Youth 9th` (2023.01 ~ 2023.11)
+  - Java Major
+- `SDC-Kor 2023` (2023.08 ~ 2023.10)
+  - Contribute on [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode)
+- `Naver Boostcamp` (2022.08 ~ 2022.09)
+  - Web/App Course
+  - Complete challenge course
+
+### Contribution
+- [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode)
+  - Modularization and Development for application of external NPU
+- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+  - Adding information about `HTTPS`
+  - Fixing typo
+ 
+### Certification
+`PCCP Level3 (735 points)` `HSAT Level3` `sqld` `Engineer Information Processing` `Samsung SW Competency Evaluation Level B` `Craftsman Information Processing` 
