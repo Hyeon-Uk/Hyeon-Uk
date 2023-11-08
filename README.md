@@ -17,13 +17,13 @@
 - `Samsung Software Academy for Youth 9th` (2023.01 ~ 2023.11)
   - Java Major
 - `SDC-Kor 2023` (2023.08 ~ 2023.10)
-  - Contribute on [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode)
+  - Contribute on [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode/issues/1621)
 - `Naver Boostcamp` (2022.08 ~ 2022.09)
   - Web/App Course
   - Complete challenge course
 
 ### Contribution
-- [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode)
+- [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode/issues/1621)
   - Modularization and Development for application of external NPU
 - [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
   - Adding information about `HTTPS`
