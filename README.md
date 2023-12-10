@@ -25,7 +25,7 @@
 ### Contribution
 - [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode/issues/1621)
   - Modularization and Development for application of external NPU
-- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer/pull/160)
   - Adding information about `HTTPS`
   - Fixing typo
  
