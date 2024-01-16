@@ -28,6 +28,9 @@
 - [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer/pull/160)
   - Adding information about `HTTPS`
   - Fixing typo
+- [BJSolveAssist](https://github.com/Hyeon-Uk/BJSolveAssist)
+  - Contibutes on [Intellij Plugin](https://plugins.jetbrains.com/plugin/23468-bjsolveassist)
+  - Assistance of algorithm solving
  
 ### Certification
 `PCCP Level3 (735 points)` `HSAT Level3` `sqld` `Engineer Information Processing` `Samsung SW Competency Evaluation Level B` `Craftsman Information Processing` 
