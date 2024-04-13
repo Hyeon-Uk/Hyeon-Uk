@@ -33,4 +33,4 @@
   - Assistance of algorithm solving
  
 ### Certification
-`PCCP Level3 (735 points)` `HSAT Level3` `sqld` `Engineer Information Processing` `Samsung SW Competency Evaluation Level B` `Craftsman Information Processing` 
+`PCCP Level4 (890 points)` `HSAT Level3` `sqld` `Engineer Information Processing` `Samsung SW Competency Evaluation Level B` `Craftsman Information Processing` 
