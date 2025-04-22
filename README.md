@@ -1,8 +1,7 @@
 <a target="_blank" href="https://solved.ac/profile/rlagusdnr120"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagusdnr120"></a>
 
 ### Who?
-- Backend Developer || Software Developer
-- Graduated Sejong University, Computer Engineering
+- Software Developer || Backend Developer
 
 ### Interest
 - OOP
@@ -13,8 +12,10 @@
 - Software Architecture & Infra
 
 ### Experience & Education
+- `Samsung Research` (2025.02.17 ~ )
 - `Woowahan Tech Camp 7th` (2024.06.24 ~ 2024.08.30)
 - `Samsung Software Academy for Youth 9th` (2023.01 ~ 2023.11)
+- `Sejong University, Computer Engineering` (2017.02 ~ 2023.02)
 
 ### Contribution
 - [Samsung ONE-vscode](https://github.com/Samsung/ONE-vscode/issues/1621)
